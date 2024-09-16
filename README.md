@@ -10,5 +10,4 @@
 SAI909099/SAI909099 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-![Visitor Count](https : //profile-counter.glitch.me/{SAI909099}/count.svg)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SAI909099)](https://git.io/streak-stats)
