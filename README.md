@@ -11,5 +11,4 @@ SAI909099/SAI909099 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-
-                    ![visitors](https://visitor-badge.glitch.me/badge?page_id=SAI909099.id&left_color=green&right_color=red)
+![Visitor Count](https : //profile-counter.glitch.me/{SAI909099}/count.svg)
