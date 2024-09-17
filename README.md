@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdulaziz</h1>
 <h3 align="center">A passionate Backend developer from Uzbekistan</h3>
 
-- 🌱 I’m currently learning **DjangoRest Freamwork , test**
+- 🌱 I’m currently learning **DjangoRest Freamwork , Pytest**
 
 - 💬 Ask me about **python,Telegram Bot, Django**
 
