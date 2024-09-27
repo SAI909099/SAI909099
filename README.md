@@ -6,7 +6,7 @@
 - 💬 Ask me about **python,Telegram Bot, Django**
 
 - 📫 How to reach me **sulaymonovabdulaziz1@gmail.com**  
-   
+    
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/sai1000351" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sai1000351" height="30" width="40" /></a>
