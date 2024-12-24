@@ -22,7 +22,7 @@
 <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SAI909099&theme=tokyonight">
 <br/>
 
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=SAI909099&theme=tokyonight&hide_border=true" alt="Kamronbek">
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=SAI909099&theme=tokyonight&hide_border=true" alt="SAI">
 
 <img width="80%" src="https://github-readme-stats.vercel.app/api?username=SAI909099&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
 
