@@ -20,9 +20,10 @@
 </a>
 <p align="left">
 </p>
-<a href="[@Abdulaziz_Sulaymonov](https://t.me/Abdulaziz_Sulaymonov)" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="instagram" width="40" height="40"/>
+<a href="https://t.me/YOUR_USERNAME" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" width="40" height="40" alt="telegram" />
 </a>
+
 </p>
 
 ---
