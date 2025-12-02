@@ -18,6 +18,11 @@
 <a href="https://instagram.com/sai1000351" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" width="40" height="40"/>
 </a>
+<p align="left">
+</p>
+<a href="[@Abdulaziz_Sulaymonov](https://t.me/Abdulaziz_Sulaymonov)" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="instagram" width="40" height="40"/>
+</a>
 </p>
 
 ---
