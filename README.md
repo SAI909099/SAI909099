@@ -43,10 +43,7 @@
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40" />
   </a>
 
-  <!-- Django REST Framework -->
-  <a href="https://www.django-rest-framework.org/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/django-rest-framework.svg" width="40" height="40" />
-  </a>
+
 
   <!-- PostgreSQL -->
   <a href="https://www.postgresql.org" target="_blank">
