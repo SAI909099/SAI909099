@@ -38,39 +38,51 @@
 ---
 ---
 
-## 📈 GitHub Overview
+## 🚀 GitHub Highlights
 
 <p align="center">
-  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SAI909099&theme=tokyonight" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SAI909099&theme=radical&row=1&column=6" />
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## 🧠 Contribution Activity
+
 <p align="center">
-  <img width="80%" src="https://streak-stats.demolab.com/?user=SAI909099&theme=tokyonight" />
+  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SAI909099&theme=github_dark" />
 </p>
 
 ---
 
-## 📊 Most Used Languages
+## 🔥 Streak Stats
+
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAI909099&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="80%" src="https://streak-stats.demolab.com?user=SAI909099&theme=tokyonight" />
 </p>
 
 ---
 
-## 👀 Profile Visitors
+## 📚 Languages Breakdown
+
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=SAI909099&theme=tokyonight&layout=compact" />
+</p>
+
+---
+
+## 👀 Visitor Counter
+
 <p align="center">
   <img src="https://profile-counter.glitch.me/SAI909099/count.svg" />
 </p>
 
 ---
 
-
-## 📊 GitHub Stats:
-
-<p align="center">
+  
+  
+  ## 📊 GitHub Stats:
+  
+  <p align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=SAI909099&theme=radical" alt="trophy"/>
 
