@@ -36,6 +36,37 @@
 </p>
 
 ---
+---
+
+## 📈 GitHub Overview
+
+<p align="center">
+  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SAI909099&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+<p align="center">
+  <img width="80%" src="https://streak-stats.demolab.com/?user=SAI909099&theme=tokyonight" />
+</p>
+
+---
+
+## 📊 Most Used Languages
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAI909099&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 👀 Profile Visitors
+<p align="center">
+  <img src="https://profile-counter.glitch.me/SAI909099/count.svg" />
+</p>
+
+---
+
 
 ## 📊 GitHub Stats:
 
