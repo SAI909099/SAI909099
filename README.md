@@ -18,8 +18,7 @@
 <a href="https://instagram.com/sai1000351" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" width="40" height="40"/>
 </a>
-<p align="left">
-</p>
+
 <a href="https://t.me/YOUR_USERNAME" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" width="40" height="40" alt="telegram" />
 </a>
