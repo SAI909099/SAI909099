@@ -19,7 +19,7 @@
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" width="40" height="40"/>
 </a>
 
-<a href="https://t.me/YOUR_USERNAME" target="_blank">
+<a href="https://t.me/Abdulaziz_Sulaymonov" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" width="40" height="40" alt="telegram" />
 </a>
 
