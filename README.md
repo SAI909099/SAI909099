@@ -76,9 +76,4 @@ REST API for managing books, users, authentication, and orders using Django REST
 
 
 
-## 📚 Languages Breakdown
-
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=SAI909099&theme=tokyonight&layout=compact" />
-</p>
 
