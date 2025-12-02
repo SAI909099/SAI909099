@@ -47,7 +47,9 @@ A full-featured medical clinic management system using Django, DRF, PostgreSQL, 
 ---
 
 ### 🏫 School Management System  
-🔗 https://github.com/SAI909099/school_project  
+🔗 https://github.com/SAI909099/school_project 
+🔗 https://myschoolportal.my:8443/ 
+Login : 7777 Password : 7777
 Complete backend platform including attendance, schedules, parent portal, finance module, and admin features.
 
 ---
@@ -72,15 +74,7 @@ REST API for managing books, users, authentication, and orders using Django REST
   <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SAI909099&theme=tokyonight" />
 </p>
 
----
 
-## 🔥 Streak Stats
-
-<p align="center">
-  <img width="80%" src="https://streak-stats.demolab.com?user=SAI909099&theme=tokyonight" />
-</p>
-
----
 
 ## 📚 Languages Breakdown
 
@@ -88,12 +82,3 @@ REST API for managing books, users, authentication, and orders using Django REST
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=SAI909099&theme=tokyonight&layout=compact" />
 </p>
 
----
-
-## 👀 Visitor Counter
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/SAI909099/count.svg" />
-</p>
-
----
