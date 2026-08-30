@@ -89,10 +89,10 @@ Backend platform for private schools covering attendance, grading, class schedul
 
 ---
 
-## 🚀 GitHub Highlights
+## 📊 Top Languages
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SAI909099&theme=radical&row=1&column=6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAI909099&layout=compact&theme=tokyonight&hide=html,css" />
 </p>
 
 ## 🧠 Contribution Activity
@@ -100,3 +100,5 @@ Backend platform for private schools covering attendance, grading, class schedul
 <p align="center">
   <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SAI909099&theme=tokyonight" />
 </p>
+
+
