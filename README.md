@@ -1,134 +1,91 @@
 <h1 align="center">Hi 👋, I'm Abdulaziz</h1>
-<h3 align="center">A Passionate Python Backend Developer from Uzbekistan</h3>
+<h3 align="center">Python Backend Developer from Uzbekistan</h3>
 
 ---
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning **Django REST Framework, Pytest**
-- 💬 Ask me about **Python, Django, REST APIs, Telegram Bots**
-- 📫 You can reach me at **sulaymonovabdulaziz1@gmail.com**
-- 🎯 Focused on building scalable backend systems using Django, DRF, PostgreSQL, Docker, and Linux
+- 🔧 Building backend systems with **Django, Django REST Framework, PostgreSQL, Redis, Docker**
+- 🌱 Currently deepening my skills in **Pytest** and **system architecture**
+- 💬 Ask me about **Python, Django, REST APIs, backend deployment, Telegram Bots**
+- 📫 Reach me at **sulaymonovabdulaziz1@gmail.com**
+- 🎯 I design and ship complete backend systems end-to-end — database design, API architecture, authentication, and deployment to production servers
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://instagram.com/sai1000351" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" width="40" height="40"/>
-</a>
-
 <a href="https://t.me/Abdulaziz_Sulaymonov" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" width="40" height="40" alt="telegram" />
 </a>
-
 </p>
 
 ---
 
 ## 🛠️ Languages and Tools
 
-### 🛠️ Languages and Tools
-
 <p align="left">
-
-  <!-- Python -->
   <a href="https://www.python.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" />
   </a>
-
-  <!-- Django -->
   <a href="https://www.djangoproject.com/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40" />
   </a>
-
-
-
-  <!-- PostgreSQL -->
   <a href="https://www.postgresql.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" />
   </a>
-
-  <!-- SQLite -->
-  <a href="https://www.sqlite.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40" />
-  </a>
-
-  <!-- Redis -->
   <a href="https://redis.io/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40" />
   </a>
-
-  <!-- Docker -->
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" />
   </a>
-
-  <!-- Nginx -->
   <a href="https://www.nginx.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40" />
   </a>
-
-  <!-- Linux -->
   <a href="https://www.linux.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" />
   </a>
-
-  <!-- Git -->
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" />
   </a>
-
-  <!-- GitHub -->
   <a href="https://github.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" />
   </a>
-
-  <!-- Pytest -->
   <a href="https://docs.pytest.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original.svg" width="40" height="40" />
   </a>
-
-  <!-- Postman -->
   <a href="https://postman.com" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" />
   </a>
-
-  <!-- AWS -->
-  <a href="https://aws.amazon.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" />
-  </a>
-
-  <!-- VS Code -->
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" />
   </a>
-
 </p>
-
 
 ---
 
 ## 🧩 Featured Projects
 
-### 🏥 Medservise – Clinic Management System  
-🔗 https://github.com/SAI909099/Medservise  
-A full-featured medical clinic management system using Django, DRF, PostgreSQL, Redis, Docker, and JWT authentication.
+### 🏥 MedService Management System v2 — Clinic Management System
+🔗 **Repo:** https://github.com/SAI909099/medservice-management-system-v2
+
+Production system used by real clinic staff. Built with Django, DRF, PostgreSQL, Redis, and Docker. Handles patient registration, doctor scheduling, treatment rooms, billing, and role-based access (Admin, Doctor, Registrar, Cashier, Accountant) with JWT authentication.
 
 ---
 
-### 🏫 School Management System  
-🔗 https://github.com/SAI909099/school_project 
-🔗 https://myschoolportal.my:8443/ 
-Login : 7777 Password : 7777
-Complete backend platform including attendance, schedules, parent portal, finance module, and admin features.
+### 🍔 Fast Food POS — Multi-Restaurant SaaS POS System
+🔗 **Repo:** https://github.com/SAI909099/Fast-food-pos
+
+A point-of-sale platform serving multiple restaurants from a single SaaS backend, each with isolated data. Built with Django, DRF, PostgreSQL, Redis, React, and WebSocket (Django Channels) for real-time kitchen order updates. Includes automatic inventory deduction based on recipes and role-based access across 6 roles.
 
 ---
 
-### 📚 Book Store API  
-🔗 https://github.com/SAI909099/book_shop_drf  
-REST API for managing books, users, authentication, and orders using Django REST Framework.
+### 🏫 School Management System
+🔗 **Repo:** https://github.com/SAI909099/school_project
+
+Backend platform for private schools covering attendance, grading, class schedules, a parent portal, and a finance module. JWT authentication with role-based access for Admin, Teacher, Parent, and Accountant roles.
 
 ---
 
@@ -138,14 +95,8 @@ REST API for managing books, users, authentication, and orders using Django REST
   <img src="https://github-profile-trophy.vercel.app/?username=SAI909099&theme=radical&row=1&column=6" />
 </p>
 
----
-
 ## 🧠 Contribution Activity
 
 <p align="center">
   <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SAI909099&theme=tokyonight" />
 </p>
-
-
-
-
