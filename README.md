@@ -89,11 +89,6 @@ Backend platform for private schools covering attendance, grading, class schedul
 
 ---
 
-## 📊 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAI909099&layout=compact&theme=tokyonight&hide=html,css" />
-</p>
 
 ## 🧠 Contribution Activity
 
